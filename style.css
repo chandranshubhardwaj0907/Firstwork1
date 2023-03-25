@@ -1,0 +1,38 @@
+h1{
+    color:crimson;
+    text-align: center;
+    
+}
+h2{
+    color:lightsalmon;
+    text-align: center;
+    
+}
+body{
+   background-color:#F8E5E5;
+}
+img {
+   width:400px;
+   display:block;
+   margin-left: auto;
+   margin-right: auto;
+}
+marquee{
+    color:red;
+}
+p{
+    color:rgb(20, 17, 17);
+    text-align: center;
+    font-family: "Sofia", sans-serif;
+}
+h4{
+    text-align: center;
+    color:mediumvioletred;
+    text-align: center;
+    font-weight: bolder;
+    font-family: "Audiowide", sans-serif;
+   
+}
+marquee{
+    text-size-adjust: 20;
+}
